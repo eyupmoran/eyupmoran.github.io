@@ -26,8 +26,8 @@
     }
   ],
   "apiKey": "0f020a66f3e35379eef31c31363f2176",
-  "showinter": 0,
-  "showrate": false,
-  "showsplash": 0,
+  "showinter": 1,
+  "showrate": true,
+  "showsplash": 1,
   "loadingTime": 10
 }
